@@ -1,2 +1,2 @@
-# EmpoyeeHoursTracker
+# EmployeeHoursTracker
 Tafe Programming Assessment
